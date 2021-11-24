@@ -3,6 +3,8 @@ This repository highlights SQL code I used for various DDL/DML methods in the se
 
 Our SQL code helped cleaned the data, set new columns, and prepare necessary information for usage in a Tableau dashboard. I would share the Tableau dashboard as well, but since completing the project, our data was removed from our Oracle Database, also no longer being fed into Tableau. 
 
+I was repsonsible for most of the SQL statements, while others focused heavily on data analysis.
+
 This repository includes:
 - 2 SQL files
 - A PDF document showcasing a high level description of steps taken in database preparation
