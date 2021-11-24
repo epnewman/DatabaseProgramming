@@ -16,7 +16,7 @@ ON g.team_home = NL.team_name
 WHERE TEAM_HOME IS NULL;
 
 /*Using CASE statements to reduce data dimensionality and sey away/home winning statuses.
-Having 4 different HOME/AWAY status columns helped with color coding on a Heat map. For other cases, might not be necessary.*/
+Having 4 different HOME/AWAY status columns helped with color coding on a Heat map. For other cases, four specific columns might not be necessary.*/
 SELECT DISTINCT schedule_date, team_home, team_away, score_home, score_away, stadium, elevation,
  CASE 
      WHEN elevation >= 0 AND elevation < 100 THEN '0-100'
