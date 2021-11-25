@@ -1,9 +1,5 @@
 /*Name: Elliott Newman
  Desc: Examples of queries I used for managing my NFL Oracle Database.
-       While you may not have access to the Database I used, I hope
-       the queries give context to my programming abilities. 
-For app reviewers: If you want or need any code from my current work,
-I will be able to directly provide it, but am happy share similar snippets or high level descriptions.
  */ 
 
 
