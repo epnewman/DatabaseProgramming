@@ -9,3 +9,5 @@ I was repsonsible for a majority the SQL statements. I created two Tableau visua
 This repository includes:
 - 2 SQL files
 - A PDF document showcasing a high level description of steps taken in database preparation
+
+If you are looking for other examples of Python, R, Scala or other types of SQL, please let me know, and I'll be happy to provide.
