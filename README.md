@@ -11,7 +11,7 @@ This repository includes:
 - A PDF document showcasing a high level description of steps taken in database preparation
 
 ### Project 2- U.S. Census Data Analysis
-This project focuses on clustering analysis for US census data. Our Big Data professor emphasized putting information into a cohesive Slide deck. The first few slides emphasize the data collection process. 
+This project focuses on clustering analysis for US census data. It's from my Big Data Analytics course. Our professor emphasized putting information into a cohesive Slide deck. The first few slides emphasize the data collection process. 
 
 ### Project 3- Ride Share Data Analysis
-This project follows a similar format to project 2,  with a more complex dataset. Refer to beginning slides for data collection descriptions. 
+This project follows a similar format to project 2,  with a more complex initial dataset. Refer to beginning slides for data collection descriptions. 
