@@ -1,5 +1,5 @@
 /*Name: Elliott Newman
- Desc: Extra queries, showing some examples of Case statement usage 
+ Desc: Extra queries, showing some examples of CASE statement usage 
  */ 
 
 
