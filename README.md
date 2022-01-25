@@ -4,7 +4,7 @@ This repository highlights SQL code I used for various DDL/DML methods in the se
 
 Our Oracle SQL code helped cleaned the data, set new columns, and prepare necessary information for usage in a Tableau dashboard. I would share the Tableau dashboard as well, but since completing the project, our data was removed from our Oracle Database, no longer being fed into Tableau. 
 
-I was repsonsible for a majority the SQL statements. 
+I was responsible for a majority the SQL statements. 
 
 I created two Tableau visuals. Aaron and rest of the group focused heavily on data analysis.
 
